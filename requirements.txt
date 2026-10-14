@@ -1,0 +1,9 @@
+numpy
+ipykernel
+pandas
+matplotlib
+seaborn
+scikit-learn
+deep-translator
+nltk
+xgboost
