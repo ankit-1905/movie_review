@@ -1,3 +1,5 @@
+Live demo: https://moviereview-5azpzdbbcudaj8mnwrfxdu.streamlit.app
+
 # 🎬 Review Cinema — Review Sentiment Analyzer
 
 A small web app that reads a product review and tells you whether it sounds **positive**, **negative** or **mixed** — with a confidence score and the words that influenced the result.
